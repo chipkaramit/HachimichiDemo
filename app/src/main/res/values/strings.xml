@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hachimichi Demo</string>
+    <string name="developed_by">Developed by Amit for Hachimichi</string>
+    <string name="image_demo">Image Demo</string>
+    <string name="sensor_demo">Sensor Demo</string>
+    <string name="list_of_sensors">List of Sensors</string>
+</resources>
